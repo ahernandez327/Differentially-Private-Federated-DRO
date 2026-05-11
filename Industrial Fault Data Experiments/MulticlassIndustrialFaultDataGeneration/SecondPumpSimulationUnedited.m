@@ -1,1 +1,0 @@
-openExample('predmaint/MultiClassFaultDetectionUsingSimDataExample')
